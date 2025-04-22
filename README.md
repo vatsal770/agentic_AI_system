@@ -6,9 +6,6 @@ An intelligent and interactive Streamlit-based web application that allows users
 FFmpeg is a free and open-source software project consisting of a suite of libraries and programs for handling video, audio, and other multimedia files.
 Our app uses OpenAI's Whisper (transformers pipeline) for speech-to-text, which requires audio in specific formats (WAV/PCM).Also, When processing videos (MP4/MOV/AVI), FFmpeg extracts audio tracks from videos for transcription. Therefore, FFmpeg is important for handling these conversions.
 
-### App Interface
-![Alt text](images/Screenshot 2025-04-22 082858.png)
-
 ## Features
 
 - **Audio Transcription** using Whisper ASR (**required**)
@@ -49,17 +46,6 @@ gemini-2.0-flash-exp is one of the most **advanced multimodal LLMs** that suppor
 | **gemini-2.0-flash** | Yes     | Long (1M tokens) | Strong | Yes         | 
 | GPT-4 (OpenAI) | Partial | Medium        | Strong | No           | 
 | Claude 3       | Yes     | Long          | Okay   | Limited      | 
-
-
-
-### File Upload (Audio/Video)
-![upload interface](images/upload-interface.png)
-
-### AI-Generated Insights
-![summary result](images/summary-insights.png)
-
-### User Prompt for Deeper Analysis
-![custom prompt](images/user-prompt.png)
 
 
 ## How It Works
