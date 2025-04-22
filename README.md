@@ -7,7 +7,7 @@ FFmpeg is a free and open-source software project consisting of a suite of libra
 Our app uses OpenAI's Whisper (transformers pipeline) for speech-to-text, which requires audio in specific formats (WAV/PCM).Also, When processing videos (MP4/MOV/AVI), FFmpeg extracts audio tracks from videos for transcription. Therefore, FFmpeg is important for handling these conversions.
 
 ### App Interface
-![upload interface](images/Screenshot 2025-04-22 082858.png)
+![Alt text](images/Screenshot 2025-04-22 082858.png)
 
 ## Features
 
