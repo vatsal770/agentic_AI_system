@@ -6,6 +6,3 @@ phi-ai>=0.4.0
 google-generativeai>=0.3.0
 ffmpeg-python>=0.2.0
 pydub>=0.25.1
-
-
-FFmpeg is a free and open-source software project consisting of a suite of libraries and programs for handling video, audio, and other multimedia files
