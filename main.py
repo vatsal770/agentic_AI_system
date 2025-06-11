@@ -1,4 +1,5 @@
 import streamlit as st
+GOOGLE_API_KEY = "AIzaSyDgeVVmHinqsjfwRsDW3e9OTPLF3k8jqqI"
 from transformers import pipeline
 import torch
 import time
